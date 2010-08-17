@@ -1,5 +1,6 @@
 class UTMutator_SuperRegen extends UTMutator;
 
+// foo
 simulated function PostBeginPlay()
 {
 	 Super.PostBeginPlay();
